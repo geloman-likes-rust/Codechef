@@ -10,6 +10,8 @@
     + [source code](./PRIZEPOOL.cpp)
 - [Age Limit](https://www.codechef.com/problems/AGELIMIT)
     + [source code](./AGELIMIT.cpp)
+- [Chef and Brain Speed](https://www.codechef.com/problems/CBSPEED)
+    + [source code](./CBSPEED.cpp)
 
 
 ## STARTER
