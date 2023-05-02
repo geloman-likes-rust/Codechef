@@ -1,6 +1,6 @@
 # CODECHEF
 
-## PRACTICE PROBLEMS
+## PRACTICE
 
 - [N Buttons 1 Bulb](https://www.codechef.com/problems/ON_OFF)
     + [source code](./ON_OFF.cpp)
