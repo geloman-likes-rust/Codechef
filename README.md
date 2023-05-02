@@ -12,6 +12,8 @@
     + [source code](./AGELIMIT.cpp)
 - [Chef and Brain Speed](https://www.codechef.com/problems/CBSPEED)
     + [source code](./CBSPEED.cpp)
+- [Chef On Date](https://www.codechef.com/problems/CHEFONDATE)
+    + [source code](./CHEFONDATE.cpp)
 
 
 ## STARTER
