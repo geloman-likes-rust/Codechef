@@ -14,6 +14,8 @@
     + [solution](./CBSPEED.cpp)
 - [Chef On Date](https://www.codechef.com/problems/CHEFONDATE)
     + [solution](./CHEFONDATE.cpp)
+- [Counting Words](https://www.codechef.com/problems/CNTWRD)
+    + [solution](./CNTWRD.cpp)
 
 
 ## STARTER
