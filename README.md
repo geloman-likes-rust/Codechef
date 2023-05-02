@@ -18,6 +18,8 @@
     + [solution](./CNTWRD.cpp)
 - [Second Max of Three Numbers](https://www.codechef.com/problems/SNDMAX)
     + [solution](./SNDMAX.cpp)
+- [Chairs Requirement](https://www.codechef.com/problems/CHAIRS_)
+    + [solution](./CHAIRS_.cpp)
 
 
 ## STARTER
