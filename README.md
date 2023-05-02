@@ -16,6 +16,8 @@
     + [solution](./CHEFONDATE.cpp)
 - [Counting Words](https://www.codechef.com/problems/CNTWRD)
     + [solution](./CNTWRD.cpp)
+- [Second Max of Three Numbers](https://www.codechef.com/problems/SNDMAX)
+    + [solution](./SNDMAX.cpp)
 
 
 ## STARTER
