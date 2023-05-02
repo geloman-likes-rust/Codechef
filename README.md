@@ -8,6 +8,8 @@
     + [source code](./SUBSCRIBE.cpp)
 - [Total Prize Money](https://www.codechef.com/problems/PRIZEPOOL)
     + [source code](./PRIZEPOOL.cpp)
+- [Age Limit](https://www.codechef.com/problems/AGELIMIT)
+    + [source code](./AGELIMIT.cpp)
 
 
 ## STARTER
