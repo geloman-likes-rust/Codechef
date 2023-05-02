@@ -24,7 +24,11 @@
 
 ## STARTER
 
-- START88
+- STARTER 87
+    - [Four Tickets](https://www.codechef.com/problems/FOURTICKETS)
+        + [solution](./FOURTICKETS.cpp)
 
-- START89
+- STARTER 88
+
+- STARTER 89
 
