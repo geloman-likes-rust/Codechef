@@ -17,13 +17,13 @@
 
 ## STARTER
 
-- STARTER 87
+### STARTER 87
 
 | Problem | Solution |
 | :--- | ---: |
 | [Four Tickets](https://www.codechef.com/problems/FOURTICKETS) | [solution](./FOURTICKETS.cpp) |
 
-- STARTER 88
+### STARTER 88
 
-- STARTER 89
+### STARTER 89
 
