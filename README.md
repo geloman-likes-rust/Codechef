@@ -27,6 +27,7 @@
 | Problem | Solution |
 | :--- | ---: |
 | [Masterchef finals](https://www.codechef.com/problems/TOP10) | [solution](./TOP10.cpp) |
+| [Online or Offline](https://www.codechef.com/problems/FOODPLAN) | [solution](./FOODPLAN.cpp) |
 
 ### STARTER 89
 
