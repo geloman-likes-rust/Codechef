@@ -24,6 +24,9 @@
 | [Four Tickets](https://www.codechef.com/problems/FOURTICKETS) | [solution](./FOURTICKETS.cpp) |
 
 ### STARTER 88
+| Problem | Solution |
+| :--- | ---: |
+| [Masterchef finals](https://www.codechef.com/problems/TOP10) | [solution](./TOP10.cpp) |
 
 ### STARTER 89
 
