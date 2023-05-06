@@ -22,6 +22,7 @@
 | Problem | Solution |
 | :--- | ---: |
 | [Four Tickets](https://www.codechef.com/problems/FOURTICKETS) | [solution](./FOURTICKETS.cpp) |
+| [Buy Ten Packets](https://www.codechef.com/problems/TENPACKETS) | [solution](./TENPACKETS.cpp) |
 
 ### STARTER 88
 | Problem | Solution |
@@ -31,4 +32,3 @@
 | [Largest and Second Largest](https://www.codechef.com/problems/LARGESECOND) | [solution](./LARGESECOND.cpp) |
 
 ### STARTER 89
-
