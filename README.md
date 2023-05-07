@@ -17,7 +17,7 @@
 
 ## STARTER
 
-### STARTER 87
+### STARTER 87 (Division 4)
 
 | Problem | Solution |
 | :--- | ---: |
@@ -26,11 +26,11 @@
 | [Return the Change](https://www.codechef.com/problems/RETURNCHANGE) | [solution](./RETURNCHANGE.cpp) |
 | [Existence](https://www.codechef.com/problems/EXISTENCE) | [solution](./EXISTENCE.cpp) |
 
-### STARTER 88
+### STARTER 88 (Division 4)
 | Problem | Solution |
 | :--- | ---: |
 | [Masterchef finals](https://www.codechef.com/problems/TOP10) | [solution](./TOP10.cpp) |
 | [Online or Offline](https://www.codechef.com/problems/FOODPLAN) | [solution](./FOODPLAN.cpp) |
 | [Largest and Second Largest](https://www.codechef.com/problems/LARGESECOND) | [solution](./LARGESECOND.cpp) |
 
-### STARTER 89
+### STARTER 89 (Division 4)
