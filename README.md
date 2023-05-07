@@ -24,6 +24,7 @@
 | [Four Tickets](https://www.codechef.com/problems/FOURTICKETS) | [solution](./FOURTICKETS.cpp) |
 | [Buy Ten Packets](https://www.codechef.com/problems/TENPACKETS) | [solution](./TENPACKETS.cpp) |
 | [Return the Change](https://www.codechef.com/problems/RETURNCHANGE) | [solution](./RETURNCHANGE.cpp) |
+| [Existence](https://www.codechef.com/problems/EXISTENCE) | [solution](./EXISTENCE.cpp) |
 
 ### STARTER 88
 | Problem | Solution |
