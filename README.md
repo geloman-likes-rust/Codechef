@@ -21,6 +21,7 @@
 | Problem | Solution |
 | :--- | ---: |
 | [CodeChef Learn Problem Solving](https://www.codechef.com/problems/CCLEARN) | [solution](./CCLEARN.cpp) |
+| [Cricket Match](https://www.codechef.com/problems/CRICMATCH) | [solution](./CRICMATCH.cpp) |
 
 ### STARTER 87 (Division 4)
 
