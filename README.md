@@ -17,7 +17,7 @@
 
 ## STARTER
 
-### STARTER 87 (Division 4)
+### STARTER 86 (Division 4)
 | Problem | Solution |
 | :--- | ---: |
 | [CodeChef Learn Problem Solving](https://www.codechef.com/problems/CCLEARN) | [solution](./CCLEARN.cpp) |
